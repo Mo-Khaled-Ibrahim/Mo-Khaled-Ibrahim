@@ -45,4 +45,4 @@ Deepening my data modeling practice — dimensional design, data quality, and mo
 
 ### 📫 Let's connect
 
-[LinkedIn] · [Email] · Open to Data Engineering / Analytics Engineering opportunities
+[LinkedIn](www.linkedin.com/in/mo-khaled-ibrahim) · [Email](mohamed) · Open to Data Engineering / Analytics Engineering opportunities
