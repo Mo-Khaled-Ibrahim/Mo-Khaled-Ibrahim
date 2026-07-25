@@ -1,4 +1,4 @@
-# Hi, Mohamed Khaled Here 👋
+# Mohamed Khaled Here 👋
 
 **Data Engineer | Data Warehousing & Analytics-Driven Pipelines**
 
