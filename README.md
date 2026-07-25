@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
   <a href="https://your-destination-link.com">
-    <img src="[https://your-gif-url.com/animation.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWducDB4a3F2Nm9lM3J6cTl4ajhrb3hlMnRycHM4dm45YXM4bXFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif)" alt="Description" width="600">
+    ![Animated Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWducDB4a3F2Nm9lM3J6cTl4ajhrb3hlMnRycHM4dm45YXM4bXFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif)
   </a>
-</div>
+</p>
 
 # Hey y'all! I'm Mohamed Khaled 👋
 
