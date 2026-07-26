@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Hey y'all! I'm Mohamed Khaled 👋
+# Hey y'all, I'm Mohamed Khaled 👋
 
 **Data Engineer | Data Warehousing & Analytics-Driven Pipelines**
 
