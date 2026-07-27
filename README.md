@@ -33,7 +33,7 @@ I care about building things from the bottom up, wahtever it's DB, DWH, pipeline
 **Big Data & Orchestration** *(exposure — used when scale calls for it)*
 `Spark` `Hive` `Hadoop` `Kafka` `Airflow`
 
-**Certified:** Microsoft Certified: Fabric Data Engineer Associate
+**Certified:** Microsoft Certified: [Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/mohamedkhaled-8573/credentials/332b251abfceb430?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ---
 
